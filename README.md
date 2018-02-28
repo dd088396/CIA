@@ -14,8 +14,11 @@ A working knowledge of Microsoft Office software (Excel, Word, PowerPoint etc.).
 }],
     "Salary": [
   {
-    "Payment": 
-
+    "Payment": $73,160 - $82,027
+    }]
+   "Location": [{
+    "new position": "All CIA agents are reqired to move to washington D.C."
+    }]
 
 
 
