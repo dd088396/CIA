@@ -1,27 +1,20 @@
 {
   "CIA": [
 {
-  "Why": "I would like to be a protective agent in the CIA. The reason behind this is just because I would like the action behind this type of career. Also because it would not be like a normal job, because you would get to see more than just our country, because in this job you would protect people nation wide. People who the CIA thinks are at high risks they assign protective agents to. Now this all adds up to protecting our great Nation called The United States Of America. If we can protect people who have valuable information about a terrorists organization that plans to attack America. The CIA would assigns a protective agent to help get him to America or somewhere safe so he wouldn’t be killed. In a case like I just mention, information may be crucial to save countless lives and I would love to do something on a daily basis that I know is helping our country and keeping Americans safe."
-}],
-    "What you must do":[
-   {
-     "Qualify": "War Zone deployment experience
-Strong knowledge base in all facets of protective operations.
-Leadership and management experience.
-Report writing experience.
-Extensive medical experience (EMT, First Responder, 18D, Paramedic, Navy Corpsman)
-A working knowledge of Microsoft Office software (Excel, Word, PowerPoint etc.)."
-}],
-    "Salary": [
+  "Job": "Protective Agent",
+"Qualify": "War Zone deployment experience or some kind of 7 year law enforcer, Strong knowledge base in all facets of protective operations, Leadership and management experience, Report writing experience. You must also have Extensive medical experience (EMT, First Responder, 18D, Paramedic, Navy Corpsman) A working knowledge of Microsoft Office software (Excel, Word, PowerPoint etc.). You must also be a U.S citizen.",
+"Salary": ["$73,160" , "$82,027"],
+"New location": "All CIA agents are reqired to move to washington D.C."},
+{
+  "Job": "Security Professional",
+  "Qualify": "GPA must be a minimum of 3.0. You are required to have excellent oral and written communication skills; analytical skills; strong interpersonal skills; and high levels of trustworthiness, integrity and loyalty to the US are required. All applicants must undergo successful occupational testing to include an aptitude test, writing test, personality inventory, and interview.",
+  "Salary": ["$50,935" – "$123,234"],
+  "New Location": "All CIA agents are reqired to move to washington D.C."},
   {
-    "Payment": ["$73,160" , "$82,027"]
-    }]
-   "Location": [{
-    "new position": "All CIA agents are reqired to move to washington D.C."
-    }]
-
-
-
-
-
+  "Job": "Police Officer - Security Protective Service (SPS)",
+  "Qualify": "High school diploma or equivalent, Twenty-one (21) years of age at time of appointment, No record of felony convictions or domestic violence, Must possess a valid Driver’s License, Physically and psychologically fit, Successful completion of the Federal Law Enforcement Training Center (FLETC) Physical Efficiency Battery (PEB) with a minimum score of 25%, and FLETC PEB requirements can be found at fletc.gov",
+  "Salary": ["$59,015" - "$80,513"],
+  "New Location": "All CIA agents are reqired to move to washington D.C."}
+ 
+]
 }
