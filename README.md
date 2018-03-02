@@ -3,7 +3,7 @@
 {
   "Job": "Protective Agent",
 "Qualify": "War Zone deployment experience or some kind of 7 year law enforcer, Strong knowledge base in all facets of protective operations, Leadership and management experience, Report writing experience. You must also have Extensive medical experience (EMT, First Responder, 18D, Paramedic, Navy Corpsman) A working knowledge of Microsoft Office software (Excel, Word, PowerPoint etc.). You must also be a U.S citizen.",
-"Salary": ["73,160","82,027"],
+"Salary": ["1","2"],
 "New": "All CIA agents are reqired to move to washington D.C."},
 {
   "Job": "Security Professional",
